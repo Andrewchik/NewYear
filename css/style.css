@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: repeating-linear-gradient(45deg, #606dbc, #606dbc 10px, #465298 10px, #465298 20px);
+    font-family: 'Grandstander', cursive;
+}
+
+.head_logo{
+    text-align: center;
+    margin: 20px 0px 30px 0px;
+}
+
+.card{
+    padding: 5px;
+    margin: 5px;
+}
+
+.alert {
+    text-align: center;
+}
+
+.neon {
+    color: #fff;
+    text-shadow:
+      0 0 5px rgb(186, 163, 163),
+      0 0 10px rgb(133, 123, 123),
+      0 0 20px rgb(121, 113, 113),
+      0 0 40px rgb(255, 68, 0),
+      0 0 80px rgb(255, 68, 0),
+      0 0 90px rgb(255, 60, 0),
+      0 0 100px rgb(191, 4, 4),
+      0 0 150px rgb(255, 25, 0);
+  }
