@@ -34,3 +34,7 @@ body{
       0 0 100px rgb(191, 4, 4),
       0 0 150px rgb(255, 25, 0);
   }
+.card-title{
+    border-bottom: 1px solid #000;
+}
+
